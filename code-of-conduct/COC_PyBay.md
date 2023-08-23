@@ -1,6 +1,6 @@
 #Code of Conduct
 
-PyBay is a regional conference made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching and connecting people.
+PyBay is a regional conference created, organized, and attended by people from all over the world, working on every aspect of the mission - including mentorship, teaching and connecting people.
 
 Diversity is one of our huge strengths, but it can also lead to communication issues. To support a welcoming environment for all, regardless of individual differences, we have a few ground rules that we ask people to adhere to when they participate in this community activities. These rules apply equally to founders, organizers, moderators, sponsors, and affiliates -- in short, to all participants.
 

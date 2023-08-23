@@ -23,9 +23,9 @@ The principles
      - Advocating for, or encouraging, any of the above behavior.
      - Repeated harassment of others. In general, if someone asks you to stop, then stop.
 
-##Where does the code of conduct apply
+##Where does the Code of Conduct apply
 
-This code of conduct applies to all spaces managed by PyBay. This includes:
+This Code of Conduct applies to all spaces managed by PyBay. This includes:
 
  - Conferences (including social events and peripheral activities, both virtual and in-person)
  - Unconferences and sprints
@@ -35,20 +35,20 @@ This code of conduct applies to all spaces managed by PyBay. This includes:
  - Slack
  - Mailing lists
  - GitHub
- - Social media hashtag
+ - Social media hashtags
  - meetup.com discussion boards
- - Any other forums created by the which the community uses for communication.
+ - Any other forums created by the community which the community uses for communication.
 
 In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 Speakers, presenters, and open space organizers
 
-Speakers, presenters, and those organizing open spaces or similar events are expected to uphold the community guidelines. Please let a member of staff know immediately if there are any issues during one of these events. Presentations, open spaces, and similar events will generally not be stopped for one-time gaffes or minor problems, although a staff member will speak to the presenter afterward and we will include any incidents in our transparency report. However, staff will take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates our code of conduct policy.
+Speakers, presenters, and those organizing open spaces or similar events are expected to uphold the community guidelines. Please let a member of staff know immediately if there are any issues during one of these events. Presentations, open spaces, and similar events will generally not be stopped for one-time gaffes or minor problems, although a staff member will speak to the presenter afterward and we will include any incidents in our transparency report. However, staff will take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates our Code of Conduct policy.
 
 ###Sponsors, affiliates, and exhibitors
 
 When you sponsor a PyBay event, we welcome you as a member of our community, and we expect you to be respectful to the community you operate within.
 
-All exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the code of conduct. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) must not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+All exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the Code of Conduct. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) must not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 In addition, sponsors and affiliates of conference, meetups, and online activities should not employ aggressive recruiting techniques, invasive marketing behavior, or similar actions towards community members. In case of violations, sponsors might be sanctioned and expelled from the event or activity with no return of the sponsorship contribution.
 
@@ -62,15 +62,14 @@ Attendees are further expected to comply with all state and local laws on this m
 
 Attendees of all ages are welcome at PyBay! Attendees 15 years of age and under are welcome to attend with a legal guardian. Both people should be registered for the conference and have badges. The legal guardian should be with the child at all times and the child should never be left alone at the conference.
 
-##What to do in case of violations
+##Code of Conduct Reporting process
 
-If you believe that someone is violating the Code of Conduct during one of our events, please contact the CoC team immediately by emailing us at conduct@pybay.com.
+If you believe that someone is violating the Code of Conduct during one of our events, please contact the CoC team immediately by emailing us at [conduct@pybay.com](mailto:conduct@pybay.com).
 
 To help us respond in the best way to the situation, please follow the Code of Conduct Reporting. The CoC representatives employ the Code of Conduct Response to handle reports.
 
 If you believe a member of staff is violating our Code of Conduct, please reach out to one of the conference chairs, Slava (slavabal@gmail.com) or Hemanti (hemantisd@gmail.com).
 
 All reports will be kept confidential where legally possible. In some cases a public statement might be required (for example in a CoC transparency report following conferences), but these reports are anonymized and do not include any personally identifying information. In the event of involvement with law enforcement, we will comply with their requests as legally required.
-Thanks
 
-This code of conduct is largely based on the Write The Docs Code of Conduct, which in turn is based on the Django Project Code of Conduct and the original text of the Speak Up! project, inspired in its turn by the Fedora Project, as well as the Python Mentorship Project and many others.
+This Code of Conduct is largely based on the Write The Docs Code of Conduct, which in turn is based on the Django Project Code of Conduct and the original text of the Speak Up! project, inspired in its turn by the Fedora Project, as well as the Python Mentorship Project and many others. This is also largley based on PyCascades Code of Conduct with special thanks and appreciation.

@@ -1,6 +1,6 @@
 #Code of Conduct Reporting Guide
 
-In any PyBay space (events or online), if you believe someone is violating the Code of Conduct, we ask that you report it in one of the following ways:
+In any PyBay space (In person events or online events), if you believe someone is violating the Code of Conduct, we ask that you report it in one of the following ways:
 
  - Emailing [conduct@pybay.com](mailto:conduct@pybay.com).
  - If there is a concern about a staff member, please reach out to one of the conference chairs, Slava (slavabal@gmail.com) or Hemanti (hemantisd@gmail.com).

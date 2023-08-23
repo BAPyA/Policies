@@ -12,9 +12,9 @@
 
 In line with San Francisco guidelines, we prioritize the well-being of our attendees at this outdoor event. While masks and vaccinations are not currently mandated, we reserve the right to change this at any time to comply with San Francisco guidelines. Refunds will be offered for attendees who are unable to comply with updated guidelines. At this time, personal choices regarding their usage are respected. We encourage everyone to uphold good hygiene practices, maintain social awareness, and consider vaccination for the safety of all. Should you feel unwell or exhibit symptoms, we kindly request staying home. Your health and enjoyment are paramount, and we're committed to fostering a secure environment throughout the event. We will refund your ticket if you are unwell.
 
-We will have masks available at the conference for anyone who needs them. It is also expected that requests for personal space will be respected by attendees and are covered under the code of conduct. 
+We will have masks available at the conference for anyone who needs them. It is expected that requests for personal space will be respected by attendees. Respecting such requests is covered by the PyBay code of conduct. 
 
-While we follow San Francisco's guidance for this outdoor events and don't require masks or proof of vaccination, we respect individual choices. Please prioritize hygiene, personal space, and your health. Stay home if unwell. Your safety matters most as we enjoy the event together.
+While we follow San Francisco's guidance for this outdoor event and don't require masks or proof of vaccination, we respect individual choices. Please prioritize hygiene, personal space, and your health. Stay home if unwell. Your safety matters most as we enjoy the event together.
 
 **At a minimum, we will be following all mandated venue, municipality, and province guidelines. This list, and all protocols, are subject to change if the COVID-19 situation changes.**
 

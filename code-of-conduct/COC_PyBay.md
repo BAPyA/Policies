@@ -40,7 +40,8 @@ This Code of Conduct applies to all spaces managed by PyBay. This includes:
  - Any other forums created by the community which the community uses for communication.
 
 In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
-Speakers, presenters, and open space organizers
+
+### Speakers, presenters, and open space organizers
 
 Speakers, presenters, and those organizing open spaces or similar events are expected to uphold the community guidelines. Please let a member of staff know immediately if there are any issues during one of these events. Presentations, open spaces, and similar events will generally not be stopped for one-time gaffes or minor problems, although a staff member will speak to the presenter afterward and we will include any incidents in our transparency report. However, staff will take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates our Code of Conduct policy.
 

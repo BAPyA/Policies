@@ -1,14 +1,14 @@
-#Code of Conduct Response Playbook
+# Code of Conduct Response Playbook
 
 This document aims to help organizers and moderators of PyBay spaces to handle reports of Code of Conduct violations.
 
-###COC Violations At Conferences
+### COC Violations At Conferences
 
-###Presentations
+### Presentations
 
 Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a member of conference staff should speak to the presenter afterward. However, staff should take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates the anti-harassment policy. For example, stating clearly aloud "I’m sorry, this presentation cannot be continued at the present time" with no further explanation.
 
-###In-person reports
+### In-person reports
 
 When taking a report from someone experiencing harassment you should record what they say and reassure them they are being taken seriously, but avoid making specific promises about what actions the organizers will take.
 
@@ -18,11 +18,11 @@ If the reporter desires it, arrange for an escort by conference staff or a trust
 
 After resolving the issue, a CoC report should be written and submitted to [conduct@pybay.com](mailto:conduct@pybay.com) as soon as possible, so that the information can be logged and included in transparency reports. The report should be written according to the Code of Conduct Reporting Guide.
 
-###Warnings
+### Warnings
 
 Any member of the conference staff can issue a verbal/written warning to a participant that their behavior violates the conference Code of Conduct.
 
-###Expulsion
+### Expulsion
 
 A participant may be expelled (banned) by the decision of conference staff and at their discretion. Here are some general guidelines for when a participant should be expelled:
 
@@ -32,11 +32,11 @@ A participant may be expelled (banned) by the decision of conference staff and a
  - A single serious offense (e.g., punching or groping someone).
  - A single obviously intentional offense (e.g., taking inappropriate photos).
 
-###COC Violations In Community Spaces
+### COC Violations In Community Spaces
 
 In case someone reports a Code of Conduct violation outside conferences or meetups, in one of the PyBay online spaces, or otherwise by email.
 
-###Initial receipt
+### Initial receipt
 
 Reports must be acknowledged as received within 24 hours or sooner.
 
@@ -59,7 +59,7 @@ After the staff has a complete account of the events they need to make a decisio
 
 A response must be sent within one week to the person who filed the event report with either a resolution or an explanation of why the situation is not yet resolved.
 
-###Public statements
+### Public statements
 
 As a general rule, conference staff should not make any public statements about the behavior of individual people during or after the conference.
 

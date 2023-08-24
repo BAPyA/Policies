@@ -2,11 +2,11 @@
 
 ## Policy Overview
 
-###Vaccine or Negative COVID-19 Test Expectation
+### Vaccine or Negative COVID-19 Test Expectation
 
-1.     [**Outdoor Event Guidelines**](#outdoor-event-guidelines)
-1.     [**Vaccine Expectation**](#vaccine-expectation)
-1.     [**Negative COVID-19 Test Expectation**](#negative-covid-19-test-expectation)
+1. [**Outdoor Event Guidelines**](#outdoor-event-guidelines)
+1. [**Vaccine Guideline**](#vaccine-guideline)
+1. [**Negative COVID-19 Test Guideline**](#negative-covid-19-test-guideline)
 
 ### Outdoor Event Guidelines
 
@@ -18,26 +18,20 @@ While we follow San Francisco's guidance for this outdoor event and don't requir
 
 **At a minimum, we will be following all mandated venue, municipality, and province guidelines. This list, and all protocols, are subject to change if the COVID-19 situation changes.**
 
-### Vaccine Expectation
+#### Vaccine Guideline
 
-If you are asked to show proof of vaccination to attend in person, you will need to show that you are ‘fully vaccinated’ against the COVID-19 virus. We expect that you:
+Should local regulations change to require showing vaccination, we expect that you:
 
-*     have completed a full round of vaccine (1 dose of a single-dose vaccine or 2 doses of a two-dose vaccine)
-*     that your most recent dose was at least fourteen days before the conference start
-*     that your most recent dose or booster was no more than twelve months before the conference start
+* have completed a full round of vaccine (1 dose of a single-dose vaccine or 2 doses of a two-dose vaccine)
+* that your most recent dose was at least fourteen days before the conference start
 
 The following are acceptable forms of proof of full vaccination:
 
-*     Government-issued or government-compliant digital vaccination verification app (such as Clear or VaxYes)
-*     Physical (or digital photocopy of) COVID-19 vaccination card, record, or certificate issued by a government agency, public health agency, or other authorized vaccine provider (a photo will also suffice).
+* Government-issued or government-compliant digital vaccination verification app (such as Clear or VaxYes)
+* Physical (or digital photocopy of) COVID-19 vaccination card, record, or certificate issued by a government agency, public health agency, or other authorized vaccine provider (a photo will also suffice).
 
 The proof of vaccination record must show the name of the vaccinated individual along with one other personal identifier (such as date of birth or passport number), name of the manufacturer for vaccine received, and date(s) of vaccination. It must also include the name of the official source issuing the record (e.g., public health agency, government agency, or other authorized vaccine provider).
 
-### Negative COVID-19 Test Expectation
+#### Negative COVID-19 Test Guideline
 
-In lieu of proof of vaccination, participants may instead show proof of a negative COVID-19 test administered by a verified provider to enter the event.
-
-*     Provide a negative COVID-19 test upon entry to the event for the first time.
-*     The test must be a PCR, NAAT, or Antigen test taken within 24 hours of picking up your badge on-site.
-*     The test may NOT be an unproctored at-home test. Tests must be administered by a verified provider, either locally in Vancouver or virtually before you travel from your home city (if time permits).
-*     The test results must include your name and the date and time of the test.
+We recommend taking a COVID test before attending PyBay. In the event of a positive test result, we offer attendees a refund and ask that they stay home. Additionally, we will have a small supply of tests on hand, should attendees prefer to test on-site.

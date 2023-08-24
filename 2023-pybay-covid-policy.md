@@ -22,7 +22,7 @@ While we follow San Francisco's guidance for this outdoor event and don't requir
 
 Should local regulations change to require showing vaccination, we expect that you:
 
-* have completed a full round of vaccine (1 dose of a single-dose vaccine or 2 doses of a two-dose vaccine)
+* are fully vaccinated for COVID-19 (1 dose of a single-dose vaccine or 2 doses of a two-dose vaccine)
 * that your most recent dose was at least fourteen days before the conference start
 
 The following are acceptable forms of proof of full vaccination:

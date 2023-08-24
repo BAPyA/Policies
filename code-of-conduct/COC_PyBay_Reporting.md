@@ -1,4 +1,4 @@
-#Code of Conduct Reporting Guide
+# Code of Conduct Reporting Guide
 
 In any PyBay space (In person events or online events), if you believe someone is violating the Code of Conduct, we ask that you report it in one of the following ways:
 
@@ -11,7 +11,7 @@ All reports will be kept confidential where legally possible. In some cases, we 
 
 If you believe anyone is in physical danger, please notify appropriate law enforcement first. In the United States, emergency services can be contacted by dialing 911. If you are unsure which law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.
 
-###What To Include In The Report
+### What To Include In The Report
 
  - Your contact information (so we can get in touch with you if we need to follow up)
  - Names of any individuals involved (real names, nicknames, or pseudonyms). If there were other witnesses besides you, please try to include them as well.
@@ -21,7 +21,7 @@ If you believe anyone is in physical danger, please notify appropriate law enfor
  - Whether you believe this incident is ongoing.
  - Any other information you believe we should have.
 
-###What Happens After You File A Report
+### What Happens After You File A Report
 
 The PyBay community team aims to follow the process outlined in the Code of Conduct Response Playbook.
 
@@ -33,6 +33,6 @@ Once we determine the needed action, we’ll contact the original reporter to le
 
 Finally, the staff may choose to make a public report of the incident if it was reported outside one of our conferences.
 
-###Appealing
+### Appealing
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision, contact the PyBay staff at conduct@pybay.com with your appeal and they will review the case.

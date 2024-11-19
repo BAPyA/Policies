@@ -3,7 +3,7 @@
 In any PyBay space (In person events or online events), if you believe someone is violating the Code of Conduct, we ask that you report it in one of the following ways:
 
  - Emailing [conduct@pybay.com](mailto:conduct@pybay.com).
- - If there is a concern about a staff member, please reach out to one of the conference chairs, Slava (slavabal@gmail.com) or Hemanti (hemantisd@gmail.com).
+ - If there is a concern about a staff member, please reach out to one of the conference chair [chair@pybay.com](mailto:chair@pybay.com).
 
 Reports will not be available to all staff, instead, they will be available to a limited subset of staff referred to as the Code of Conduct committee.
 

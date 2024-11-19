@@ -69,7 +69,7 @@ If you believe that someone is violating the Code of Conduct during one of our e
 
 To help us respond in the best way to the situation, please follow the Code of Conduct Reporting. The CoC representatives employ the Code of Conduct Response to handle reports.
 
-If you believe a member of staff is violating our Code of Conduct, please reach out to one of the conference chairs, Slava (slavabal@gmail.com) or Hemanti (hemantisd@gmail.com).
+If you believe a member of staff is violating our Code of Conduct, please reach out to one of the conference chair [chair@pybay.com](mailto:chair@pybay.com).
 
 All reports will be kept confidential where legally possible. In some cases a public statement might be required (for example in a CoC transparency report following conferences), but these reports are anonymized and do not include any personally identifying information. In the event of involvement with law enforcement, we will comply with their requests as legally required.
 
